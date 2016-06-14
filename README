@@ -1,2 +1,8 @@
-kwtrpspace
-A manuscript management system
+Package: kwtrpspace
+Type: Package
+Title: Manuscript management information system
+Date: 2016-03-30
+Author: Alex Maina <alexmaina@afroscholar.info>
+Maintainer: Alex Maina
+Description: A simple manuscript management web application
+Depends: PHP 5.3.10
